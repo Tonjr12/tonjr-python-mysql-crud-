@@ -1,4 +1,4 @@
-# estudos-mysql
+# 🚀 tonjr-python-mysql-crud
 # 🗄️ Laboratório SQL & Python - Curso em Vídeo
 
 Repositório para armazenar os scripts em SQL e a integração com Python desenvolvida durante as aulas de Banco de Dados MySQL (Prof. Gustavo Guanabara).
