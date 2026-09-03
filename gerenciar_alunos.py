@@ -15,6 +15,7 @@ try:
     print("\n=== LISTA DE ALUNOS CADASTRADOS ===")
     cursor.execute("SELECT matricula, nome, mensalidade, situacao FROM alunos")
 
+
     # fetchall() puxa todas as linhas encontradas no banco
     alunos = cursor.fetchall()
 
